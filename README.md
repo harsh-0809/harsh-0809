@@ -32,16 +32,18 @@
 
 # :man_technologist: About Me :
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+- :telescope: I’m a student and work in the development of web/mobile applications.
 
 - :seedling: Exploring Technical Content Writing.
 
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+- :zap: In my free time, I read tech articles.
 
 # :mailbox:How to reach me: 
 [![Instagram Badge](https://img.shields.io/badge/Instagram-pink?logo=Instagram&logoColor=rgb)](https://www.instagram.com/__harsh0809__)
 [![YouTube Badge](https://img.shields.io/badge/YouTube-red?logo=YouTube&logoColor=rgb)](https://www.youtube.com/epictrendnation)
----
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-blue?logo=Linkedin&logoColor=rgb)](https://www.linkedin.com/in/harshit-bisht-85858b200/)
+[![Twitter Badge](https://img.shields.io/badge/Twitter-blue?logo=Twitter&logoColor=rgb)](https://twitter.com/trend_epic)
+
 
 # :hammer_and_wrench: Languages and Tools :
 <div>
@@ -62,7 +64,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
----
+
 
 # :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=harsh-0809&theme=dark&background=000000)](https://git.io/streak-stats)

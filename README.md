@@ -30,7 +30,7 @@
 </div>
 
 
-### :man_technologist: About Me :
+# :man_technologist: About Me :
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 
@@ -38,11 +38,12 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 - :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
 
-- :mailbox:How to reach me: [![Instagram Badge](https://img.shields.io/badge/Instagram-pink?logo=Instagram&logoColor=rgb)](https://www.instagram.com/__harsh0809__)
-
+# :mailbox:How to reach me: 
+[![Instagram Badge](https://img.shields.io/badge/Instagram-pink?logo=Instagram&logoColor=rgb)](https://www.instagram.com/__harsh0809__)
+[![YouTube Badge](https://img.shields.io/badge/YouTube-red?logo=YouTube&logoColor=rgb)](https://www.youtube.com/epictrendnation)
 ---
 
-### :hammer_and_wrench: Languages and Tools :
+# :hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
@@ -63,7 +64,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ---
 
-### :fire: My Stats :
+# :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=harsh-0809&theme=dark&background=000000)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harsh-0809&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
